@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-20T21:31:10.797669+00:00",
+  "updated_at_utc": "2026-10-20T21:39:03.294198+00:00",
   "source_url": "https://www.baduc.ro/metalurgice/2501-tabla-neagra-lbc",
   "selection_rule": "highest normalized price per m² among all S235JR variants of each thickness",
   "json_path": "materials.steel.thicknesses[].sheet_price_lei_m2",
@@ -22,6 +22,68 @@
     }
   ],
   "checked_thicknesses": [
+    {
+      "material_key": "steel",
+      "thickness_mm": 2.0,
+      "selected_price_lei_m2": 93,
+      "highest_source_price_lei_m2": 92.928,
+      "selected_variant": {
+        "width_mm": 1250.0,
+        "length_mm": 2500.0,
+        "area_m2": 3.125,
+        "price_text": "290.4 LEI / buc"
+      },
+      "all_variants": [
+        {
+          "thickness_mm": 2.0,
+          "width_mm": 1250.0,
+          "length_mm": 2500.0,
+          "area_m2": 3.125,
+          "price_text": "290.4 LEI / buc",
+          "price_lei_m2": 92.928
+        },
+        {
+          "thickness_mm": 2.0,
+          "width_mm": 1000.0,
+          "length_mm": 2000.0,
+          "area_m2": 2.0,
+          "price_text": "177.87 LEI / buc",
+          "price_lei_m2": 88.935
+        }
+      ],
+      "old_price_lei_m2": 93
+    },
+    {
+      "material_key": "steel",
+      "thickness_mm": 3.0,
+      "selected_price_lei_m2": 143,
+      "highest_source_price_lei_m2": 142.78,
+      "selected_variant": {
+        "width_mm": 1000.0,
+        "length_mm": 2000.0,
+        "area_m2": 2.0,
+        "price_text": "285.56 LEI / buc"
+      },
+      "all_variants": [
+        {
+          "thickness_mm": 3.0,
+          "width_mm": 1000.0,
+          "length_mm": 2000.0,
+          "area_m2": 2.0,
+          "price_text": "285.56 LEI / buc",
+          "price_lei_m2": 142.78
+        },
+        {
+          "thickness_mm": 3.0,
+          "width_mm": 1500.0,
+          "length_mm": 6000.0,
+          "area_m2": 9.0,
+          "price_text": "140.36 LEI / mp",
+          "price_lei_m2": 140.36
+        }
+      ],
+      "old_price_lei_m2": 143
+    },
     {
       "material_key": "steel",
       "thickness_mm": 4.0,
