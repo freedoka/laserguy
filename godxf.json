@@ -4,38 +4,63 @@
             "name": "Otel (fier)",
             "cutting_price_lei_per_min": 25,
             "density_g_cm3": 7.85,
-            "thicknesses": [
+              "thicknesses": [
                 {
-                    "thickness_mm": 4,
-                    "speed_mm_s": 50,
-                    "sheet_price_lei_m2": 195
+                  "thickness_mm": 0.8,
+                  "speed_mm_s": 80,
+                  "sheet_price_lei_m2": 40
                 },
                 {
-                    "thickness_mm": 5,
-                    "speed_mm_s": 50,
-                    "sheet_price_lei_m2": 231
+                  "thickness_mm": 1,
+                  "speed_mm_s": 80,
+                  "sheet_price_lei_m2": 50
                 },
                 {
-                    "thickness_mm": 6,
-                    "speed_mm_s": 33,
-                    "sheet_price_lei_m2": 294
+                  "thickness_mm": 1.5,
+                  "speed_mm_s": 80,
+                  "sheet_price_lei_m2": 82
                 },
                 {
-                    "thickness_mm": 8,
-                    "speed_mm_s": 25,
-                    "sheet_price_lei_m2": 368
+                  "thickness_mm": 2,
+                  "speed_mm_s": 80,
+                  "sheet_price_lei_m2": 93
                 },
                 {
-                    "thickness_mm": 10,
-                    "speed_mm_s": 20,
-                    "sheet_price_lei_m2": 481
+                  "thickness_mm": 3,
+                  "speed_mm_s": 65,
+                  "sheet_price_lei_m2": 143
                 },
                 {
-                    "thickness_mm": 12,
-                    "speed_mm_s": 18,
-                    "sheet_price_lei_m2": 525
+                  "thickness_mm": 4,
+                  "speed_mm_s": 50,
+                  "sheet_price_lei_m2": 195
+                },
+                {
+                  "thickness_mm": 5,
+                  "speed_mm_s": 50,
+                  "sheet_price_lei_m2": 230
+                },
+                {
+                  "thickness_mm": 6,
+                  "speed_mm_s": 33,
+                  "sheet_price_lei_m2": 294
+                },
+                {
+                  "thickness_mm": 8,
+                  "speed_mm_s": 25,
+                  "sheet_price_lei_m2": 368
+                },
+                {
+                  "thickness_mm": 10,
+                  "speed_mm_s": 20,
+                  "sheet_price_lei_m2": 480
+                },
+                {
+                  "thickness_mm": 12,
+                  "speed_mm_s": 18,
+                  "sheet_price_lei_m2": 530
                 }
-            ]
+              ]
         },
         "stainless_steel": {
             "name": "Inox",
