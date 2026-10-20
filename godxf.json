@@ -1,35 +1,3 @@
-{
-  "materials": {
-    "steel": {
-      "name": "Otel (fier)",
-      "cutting_price_lei_per_min": 25,
-      "density_g_cm3": 7.85,
-      "thicknesses": [
-        {
-          "thickness_mm": 0.8,
-          "speed_mm_s": 80,
-          "sheet_price_lei_m2": 40
-        },
-        {
-          "thickness_mm": 1,
-          "speed_mm_s": 80,
-          "sheet_price_lei_m2": 50
-        },
-        {
-          "thickness_mm": 1.5,
-          "speed_mm_s": 80,
-          "sheet_price_lei_m2": 82
-        },
-        {
-          "thickness_mm": 2,
-          "speed_mm_s": 80,
-          "sheet_price_lei_m2": 93
-        },
-        {
-          "thickness_mm": 3,
-          "speed_mm_s": 65,
-          "sheet_price_lei_m2": 143
-        },
         {
           "thickness_mm": 4,
           "speed_mm_s": 50,
@@ -94,3 +62,67 @@
         },
         {
           "thickness_mm": 4,
+          "speed_mm_s": 117,
+          "sheet_price_lei_m2": 800
+        },
+        {
+          "thickness_mm": 5,
+          "speed_mm_s": 53,
+          "sheet_price_lei_m2": 1000
+        },
+        {
+          "thickness_mm": 6,
+          "speed_mm_s": 53,
+          "sheet_price_lei_m2": 1200
+        },
+        {
+          "thickness_mm": 8,
+          "speed_mm_s": 22,
+          "sheet_price_lei_m2": 1600
+        },
+        {
+          "thickness_mm": 10,
+          "speed_mm_s": 10,
+          "sheet_price_lei_m2": 2000
+        }
+      ]
+    },
+    "aluminum": {
+      "name": "Aluminiu",
+      "cutting_price_lei_per_min": 30,
+      "density_g_cm3": 2.7,
+      "thicknesses": [
+        {
+          "thickness_mm": 0.8,
+          "speed_mm_s": 500,
+          "sheet_price_lei_m2": 96
+        },
+        {
+          "thickness_mm": 1,
+          "speed_mm_s": 500,
+          "sheet_price_lei_m2": 81
+        },
+        {
+          "thickness_mm": 1.5,
+          "speed_mm_s": 300,
+          "sheet_price_lei_m2": 121
+        },
+        {
+          "thickness_mm": 2,
+          "speed_mm_s": 267,
+          "sheet_price_lei_m2": 212
+        },
+        {
+          "thickness_mm": 3,
+          "speed_mm_s": 117,
+          "sheet_price_lei_m2": 250
+        },
+        {
+          "thickness_mm": 4,
+          "speed_mm_s": 67,
+          "sheet_price_lei_m2": 427
+        }
+      ]
+    }
+  }
+}
