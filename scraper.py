@@ -152,8 +152,6 @@ def main():
     all_prices = parse_price_rows(response.text, config["source"])
 
     raw_json = json_path.read_text(encoding="utf-8")
-    print(f"Reading JSON file: {json_path.resolve()}")
-    print(f"First 300 characters: {raw_json[:300]!r}")
     data = json.loads(raw_json)
     material_key = target.get("material_key", "steel")
     price_field = target.get("price_field", "sheet_price_lei_m2")
