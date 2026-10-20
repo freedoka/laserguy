@@ -1,3 +1,10 @@
+{
+  "materials": {
+    "steel": {
+      "name": "Otel (fier)",
+      "cutting_price_lei_per_min": 25,
+      "density_g_cm3": 7.85,
+      "thicknesses": [
         {
           "thickness_mm": 4,
           "speed_mm_s": 50,
