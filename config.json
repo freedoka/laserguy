@@ -1,0 +1,21 @@
+{
+  "target": {
+    "github_owner": "freedoka",
+    "github_repo": "laserguy",
+    "branch": "main",
+    "json_path": "godxf.json",
+    "material_key": "steel",
+    "price_field": "sheet_price_lei_m2"
+  },
+  "source": {
+    "name": "Tabla neagra LBC S235JR",
+    "url": "https://www.baduc.ro/metalurgice/2501-tabla-neagra-lbc"
+  },
+  "scraper": {
+    "request_timeout_seconds": 30,
+    "minimum_valid_price": 0.01,
+    "maximum_valid_price": 10000,
+    "maximum_change_percent": 100,
+    "rounding": "ceil"
+  }
+}
