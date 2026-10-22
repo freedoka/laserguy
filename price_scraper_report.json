@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-21T10:24:27.540796+00:00",
+  "updated_at_utc": "2026-10-22T10:23:18.807091+00:00",
   "source_url": "https://www.baduc.ro/metalurgice/2501-tabla-neagra-lbc",
   "selection_rule": "highest normalized price per m² among all S235JR variants of each thickness",
   "json_path": "materials.steel.thicknesses[].sheet_price_lei_m2",
