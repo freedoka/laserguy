@@ -2,7 +2,7 @@
     "materials": {
         "steel": {
             "name": "Otel (fier)",
-            "cutting_price_lei_per_min": 20,
+            "cutting_price_lei_per_min": 25,
             "density_g_cm3": 7.85,
             "thicknesses": [
                 {
@@ -64,7 +64,7 @@
         },
         "stainless_steel": {
             "name": "Inox",
-            "cutting_price_lei_per_min": 25,
+            "cutting_price_lei_per_min": 30,
             "density_g_cm3": 7.93,
             "thicknesses": [
                 {
@@ -121,7 +121,7 @@
         },
         "aluminum": {
             "name": "Aluminiu",
-            "cutting_price_lei_per_min": 25,
+            "cutting_price_lei_per_min": 30,
             "density_g_cm3": 2.7,
             "thicknesses": [
                 {
