@@ -4,6 +4,7 @@
             "name": "Otel (fier)",
             "cutting_price_lei_per_min": 25,
             "density_g_cm3": 7.85,
+            "bend_price": 3,
             "thicknesses": [
                 {
                     "thickness_mm": 0.8,
@@ -66,6 +67,7 @@
             "name": "Inox",
             "cutting_price_lei_per_min": 30,
             "density_g_cm3": 7.93,
+            "bend_price": 3,
             "thicknesses": [
                 {
                     "thickness_mm": 0.8,
@@ -123,6 +125,7 @@
             "name": "Aluminiu",
             "cutting_price_lei_per_min": 30,
             "density_g_cm3": 2.7,
+            "bend_price": 3,
             "thicknesses": [
                 {
                     "thickness_mm": 0.8,
