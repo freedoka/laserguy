@@ -1,21 +1,62 @@
 {
-  "updated_at_utc": "2026-10-30T11:30:10.696615+00:00",
+  "updated_at_utc": "2026-10-31T15:24:40.423195+00:00",
   "source_url": "https://www.baduc.ro/metalurgice/2501-tabla-neagra-lbc",
   "selection_rule": "highest normalized price per m² among all S235JR variants of each thickness",
   "json_path": "materials.steel.thicknesses[].sheet_price_lei_m2",
   "price_field": "sheet_price_lei_m2",
-  "changes": [],
+  "changes": [
+    {
+      "thickness_mm": 2.0,
+      "old_price": 93,
+      "new_price": 101
+    },
+    {
+      "thickness_mm": 3.0,
+      "old_price": 143,
+      "new_price": 149
+    },
+    {
+      "thickness_mm": 4.0,
+      "old_price": 195,
+      "new_price": 199
+    },
+    {
+      "thickness_mm": 5.0,
+      "old_price": 231,
+      "new_price": 248
+    },
+    {
+      "thickness_mm": 6.0,
+      "old_price": 294,
+      "new_price": 298
+    },
+    {
+      "thickness_mm": 8.0,
+      "old_price": 368,
+      "new_price": 397
+    },
+    {
+      "thickness_mm": 10.0,
+      "old_price": 481,
+      "new_price": 503
+    },
+    {
+      "thickness_mm": 12.0,
+      "old_price": 525,
+      "new_price": 604
+    }
+  ],
   "checked_thicknesses": [
     {
       "material_key": "steel",
       "thickness_mm": 2.0,
-      "selected_price_lei_m2": 93,
-      "highest_source_price_lei_m2": 92.928,
+      "selected_price_lei_m2": 101,
+      "highest_source_price_lei_m2": 100.575,
       "selected_variant": {
-        "width_mm": 1250.0,
-        "length_mm": 2500.0,
-        "area_m2": 3.125,
-        "price_text": "290.4 LEI / buc"
+        "width_mm": 1000.0,
+        "length_mm": 2000.0,
+        "area_m2": 2.0,
+        "price_text": "201.15 LEI / buc"
       },
       "all_variants": [
         {
@@ -23,16 +64,16 @@
           "width_mm": 1250.0,
           "length_mm": 2500.0,
           "area_m2": 3.125,
-          "price_text": "290.4 LEI / buc",
-          "price_lei_m2": 92.928
+          "price_text": "314.02 LEI / buc",
+          "price_lei_m2": 100.48639999999999
         },
         {
           "thickness_mm": 2.0,
           "width_mm": 1000.0,
           "length_mm": 2000.0,
           "area_m2": 2.0,
-          "price_text": "177.87 LEI / buc",
-          "price_lei_m2": 88.935
+          "price_text": "201.15 LEI / buc",
+          "price_lei_m2": 100.575
         }
       ],
       "old_price_lei_m2": 93
@@ -40,13 +81,13 @@
     {
       "material_key": "steel",
       "thickness_mm": 3.0,
-      "selected_price_lei_m2": 143,
-      "highest_source_price_lei_m2": 142.78,
+      "selected_price_lei_m2": 149,
+      "highest_source_price_lei_m2": 148.65,
       "selected_variant": {
         "width_mm": 1000.0,
         "length_mm": 2000.0,
         "area_m2": 2.0,
-        "price_text": "285.56 LEI / buc"
+        "price_text": "297.3 LEI / buc"
       },
       "all_variants": [
         {
@@ -54,16 +95,16 @@
           "width_mm": 1000.0,
           "length_mm": 2000.0,
           "area_m2": 2.0,
-          "price_text": "285.56 LEI / buc",
-          "price_lei_m2": 142.78
+          "price_text": "297.3 LEI / buc",
+          "price_lei_m2": 148.65
         },
         {
           "thickness_mm": 3.0,
           "width_mm": 1500.0,
           "length_mm": 6000.0,
           "area_m2": 9.0,
-          "price_text": "140.36 LEI / mp",
-          "price_lei_m2": 140.36
+          "price_text": "148.65 LEI / mp",
+          "price_lei_m2": 148.65
         }
       ],
       "old_price_lei_m2": 143
@@ -71,13 +112,13 @@
     {
       "material_key": "steel",
       "thickness_mm": 4.0,
-      "selected_price_lei_m2": 195,
-      "highest_source_price_lei_m2": 194.81,
+      "selected_price_lei_m2": 199,
+      "highest_source_price_lei_m2": 198.235,
       "selected_variant": {
         "width_mm": 1000.0,
         "length_mm": 2000.0,
         "area_m2": 2.0,
-        "price_text": "389.62 LEI / buc"
+        "price_text": "396.47 LEI / buc"
       },
       "all_variants": [
         {
@@ -85,16 +126,16 @@
           "width_mm": 1500.0,
           "length_mm": 6000.0,
           "area_m2": 9.0,
-          "price_text": "187.55 LEI / mp",
-          "price_lei_m2": 187.55
+          "price_text": "198.2 LEI / mp",
+          "price_lei_m2": 198.2
         },
         {
           "thickness_mm": 4.0,
           "width_mm": 1000.0,
           "length_mm": 2000.0,
           "area_m2": 2.0,
-          "price_text": "389.62 LEI / buc",
-          "price_lei_m2": 194.81
+          "price_text": "396.47 LEI / buc",
+          "price_lei_m2": 198.235
         }
       ],
       "old_price_lei_m2": 195
@@ -102,13 +143,13 @@
     {
       "material_key": "steel",
       "thickness_mm": 5.0,
-      "selected_price_lei_m2": 231,
-      "highest_source_price_lei_m2": 230.265,
+      "selected_price_lei_m2": 248,
+      "highest_source_price_lei_m2": 247.91,
       "selected_variant": {
         "width_mm": 1000.0,
         "length_mm": 2000.0,
         "area_m2": 2.0,
-        "price_text": "460.53 LEI / buc"
+        "price_text": "495.82 LEI / buc"
       },
       "all_variants": [
         {
@@ -116,16 +157,16 @@
           "width_mm": 1000.0,
           "length_mm": 2000.0,
           "area_m2": 2.0,
-          "price_text": "460.53 LEI / buc",
-          "price_lei_m2": 230.265
+          "price_text": "495.82 LEI / buc",
+          "price_lei_m2": 247.91
         },
         {
           "thickness_mm": 5.0,
           "width_mm": 1500.0,
           "length_mm": 6000.0,
           "area_m2": 9.0,
-          "price_text": "227.48 LEI / mp",
-          "price_lei_m2": 227.48
+          "price_text": "247.75 LEI / mp",
+          "price_lei_m2": 247.75
         }
       ],
       "old_price_lei_m2": 231
@@ -133,13 +174,13 @@
     {
       "material_key": "steel",
       "thickness_mm": 6.0,
-      "selected_price_lei_m2": 294,
-      "highest_source_price_lei_m2": 293.425,
+      "selected_price_lei_m2": 298,
+      "highest_source_price_lei_m2": 297.355,
       "selected_variant": {
         "width_mm": 1000.0,
         "length_mm": 2000.0,
         "area_m2": 2.0,
-        "price_text": "586.85 LEI / buc"
+        "price_text": "594.71 LEI / buc"
       },
       "all_variants": [
         {
@@ -147,16 +188,16 @@
           "width_mm": 1500.0,
           "length_mm": 6000.0,
           "area_m2": 9.0,
-          "price_text": "280.72 LEI / mp",
-          "price_lei_m2": 280.72
+          "price_text": "297.3 LEI / mp",
+          "price_lei_m2": 297.3
         },
         {
           "thickness_mm": 6.0,
           "width_mm": 1000.0,
           "length_mm": 2000.0,
           "area_m2": 2.0,
-          "price_text": "586.85 LEI / buc",
-          "price_lei_m2": 293.425
+          "price_text": "594.71 LEI / buc",
+          "price_lei_m2": 297.355
         }
       ],
       "old_price_lei_m2": 294
@@ -164,13 +205,13 @@
     {
       "material_key": "steel",
       "thickness_mm": 8.0,
-      "selected_price_lei_m2": 368,
-      "highest_source_price_lei_m2": 367.23,
+      "selected_price_lei_m2": 397,
+      "highest_source_price_lei_m2": 396.4,
       "selected_variant": {
         "width_mm": 1500.0,
         "length_mm": 6000.0,
         "area_m2": 9.0,
-        "price_text": "367.23 LEI / mp"
+        "price_text": "396.4 LEI / mp"
       },
       "all_variants": [
         {
@@ -178,8 +219,8 @@
           "width_mm": 1500.0,
           "length_mm": 6000.0,
           "area_m2": 9.0,
-          "price_text": "367.23 LEI / mp",
-          "price_lei_m2": 367.23
+          "price_text": "396.4 LEI / mp",
+          "price_lei_m2": 396.4
         }
       ],
       "old_price_lei_m2": 368
@@ -187,13 +228,13 @@
     {
       "material_key": "steel",
       "thickness_mm": 10.0,
-      "selected_price_lei_m2": 481,
-      "highest_source_price_lei_m2": 480.37,
+      "selected_price_lei_m2": 503,
+      "highest_source_price_lei_m2": 502.86,
       "selected_variant": {
         "width_mm": 1500.0,
         "length_mm": 6000.0,
         "area_m2": 9.0,
-        "price_text": "480.37 LEI / mp"
+        "price_text": "502.86 LEI / mp"
       },
       "all_variants": [
         {
@@ -201,8 +242,8 @@
           "width_mm": 1500.0,
           "length_mm": 6000.0,
           "area_m2": 9.0,
-          "price_text": "480.37 LEI / mp",
-          "price_lei_m2": 480.37
+          "price_text": "502.86 LEI / mp",
+          "price_lei_m2": 502.86
         }
       ],
       "old_price_lei_m2": 481
@@ -210,13 +251,13 @@
     {
       "material_key": "steel",
       "thickness_mm": 12.0,
-      "selected_price_lei_m2": 525,
-      "highest_source_price_lei_m2": 524.56,
+      "selected_price_lei_m2": 604,
+      "highest_source_price_lei_m2": 603.43,
       "selected_variant": {
         "width_mm": 1500.0,
         "length_mm": 6000.0,
         "area_m2": 9.0,
-        "price_text": "524.56 LEI / mp"
+        "price_text": "603.43 LEI / mp"
       },
       "all_variants": [
         {
@@ -224,8 +265,8 @@
           "width_mm": 1500.0,
           "length_mm": 6000.0,
           "area_m2": 9.0,
-          "price_text": "524.56 LEI / mp",
-          "price_lei_m2": 524.56
+          "price_text": "603.43 LEI / mp",
+          "price_lei_m2": 603.43
         }
       ],
       "old_price_lei_m2": 525

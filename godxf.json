@@ -24,42 +24,42 @@
                 {
                     "thickness_mm": 2,
                     "speed_mm_s": 80,
-                    "sheet_price_lei_m2": 93
+                    "sheet_price_lei_m2": 101
                 },
                 {
                     "thickness_mm": 3,
                     "speed_mm_s": 65,
-                    "sheet_price_lei_m2": 143
+                    "sheet_price_lei_m2": 149
                 },
                 {
                     "thickness_mm": 4,
                     "speed_mm_s": 50,
-                    "sheet_price_lei_m2": 195
+                    "sheet_price_lei_m2": 199
                 },
                 {
                     "thickness_mm": 5,
                     "speed_mm_s": 50,
-                    "sheet_price_lei_m2": 231
+                    "sheet_price_lei_m2": 248
                 },
                 {
                     "thickness_mm": 6,
                     "speed_mm_s": 33,
-                    "sheet_price_lei_m2": 294
+                    "sheet_price_lei_m2": 298
                 },
                 {
                     "thickness_mm": 8,
                     "speed_mm_s": 25,
-                    "sheet_price_lei_m2": 368
+                    "sheet_price_lei_m2": 397
                 },
                 {
                     "thickness_mm": 10,
                     "speed_mm_s": 20,
-                    "sheet_price_lei_m2": 481
+                    "sheet_price_lei_m2": 503
                 },
                 {
                     "thickness_mm": 12,
                     "speed_mm_s": 18,
-                    "sheet_price_lei_m2": 525
+                    "sheet_price_lei_m2": 604
                 }
             ]
         },
