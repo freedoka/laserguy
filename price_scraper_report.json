@@ -1,51 +1,10 @@
 {
-  "updated_at_utc": "2026-10-31T15:24:40.423195+00:00",
+  "updated_at_utc": "2026-11-01T11:56:23.449648+00:00",
   "source_url": "https://www.baduc.ro/metalurgice/2501-tabla-neagra-lbc",
   "selection_rule": "highest normalized price per m² among all S235JR variants of each thickness",
   "json_path": "materials.steel.thicknesses[].sheet_price_lei_m2",
   "price_field": "sheet_price_lei_m2",
-  "changes": [
-    {
-      "thickness_mm": 2.0,
-      "old_price": 93,
-      "new_price": 101
-    },
-    {
-      "thickness_mm": 3.0,
-      "old_price": 143,
-      "new_price": 149
-    },
-    {
-      "thickness_mm": 4.0,
-      "old_price": 195,
-      "new_price": 199
-    },
-    {
-      "thickness_mm": 5.0,
-      "old_price": 231,
-      "new_price": 248
-    },
-    {
-      "thickness_mm": 6.0,
-      "old_price": 294,
-      "new_price": 298
-    },
-    {
-      "thickness_mm": 8.0,
-      "old_price": 368,
-      "new_price": 397
-    },
-    {
-      "thickness_mm": 10.0,
-      "old_price": 481,
-      "new_price": 503
-    },
-    {
-      "thickness_mm": 12.0,
-      "old_price": 525,
-      "new_price": 604
-    }
-  ],
+  "changes": [],
   "checked_thicknesses": [
     {
       "material_key": "steel",
@@ -76,7 +35,7 @@
           "price_lei_m2": 100.575
         }
       ],
-      "old_price_lei_m2": 93
+      "old_price_lei_m2": 101
     },
     {
       "material_key": "steel",
@@ -107,7 +66,7 @@
           "price_lei_m2": 148.65
         }
       ],
-      "old_price_lei_m2": 143
+      "old_price_lei_m2": 149
     },
     {
       "material_key": "steel",
@@ -138,7 +97,7 @@
           "price_lei_m2": 198.235
         }
       ],
-      "old_price_lei_m2": 195
+      "old_price_lei_m2": 199
     },
     {
       "material_key": "steel",
@@ -169,7 +128,7 @@
           "price_lei_m2": 247.75
         }
       ],
-      "old_price_lei_m2": 231
+      "old_price_lei_m2": 248
     },
     {
       "material_key": "steel",
@@ -200,7 +159,7 @@
           "price_lei_m2": 297.355
         }
       ],
-      "old_price_lei_m2": 294
+      "old_price_lei_m2": 298
     },
     {
       "material_key": "steel",
@@ -223,7 +182,7 @@
           "price_lei_m2": 396.4
         }
       ],
-      "old_price_lei_m2": 368
+      "old_price_lei_m2": 397
     },
     {
       "material_key": "steel",
@@ -246,7 +205,7 @@
           "price_lei_m2": 502.86
         }
       ],
-      "old_price_lei_m2": 481
+      "old_price_lei_m2": 503
     },
     {
       "material_key": "steel",
@@ -269,7 +228,7 @@
           "price_lei_m2": 603.43
         }
       ],
-      "old_price_lei_m2": 525
+      "old_price_lei_m2": 604
     }
   ]
 }
