@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-02T13:42:47.607101+00:00",
+  "updated_at_utc": "2026-11-03T12:55:52.983903+00:00",
   "source_url": "https://www.baduc.ro/metalurgice/2501-tabla-neagra-lbc",
   "selection_rule": "highest normalized price per m² among all S235JR variants of each thickness",
   "json_path": "materials.steel.thicknesses[].sheet_price_lei_m2",
@@ -82,19 +82,19 @@
       "all_variants": [
         {
           "thickness_mm": 4.0,
-          "width_mm": 1500.0,
-          "length_mm": 6000.0,
-          "area_m2": 9.0,
-          "price_text": "198.2 LEI / mp",
-          "price_lei_m2": 198.2
-        },
-        {
-          "thickness_mm": 4.0,
           "width_mm": 1000.0,
           "length_mm": 2000.0,
           "area_m2": 2.0,
           "price_text": "396.47 LEI / buc",
           "price_lei_m2": 198.235
+        },
+        {
+          "thickness_mm": 4.0,
+          "width_mm": 1500.0,
+          "length_mm": 6000.0,
+          "area_m2": 9.0,
+          "price_text": "198.2 LEI / mp",
+          "price_lei_m2": 198.2
         }
       ],
       "old_price_lei_m2": 199
@@ -144,19 +144,19 @@
       "all_variants": [
         {
           "thickness_mm": 6.0,
-          "width_mm": 1500.0,
-          "length_mm": 6000.0,
-          "area_m2": 9.0,
-          "price_text": "297.3 LEI / mp",
-          "price_lei_m2": 297.3
-        },
-        {
-          "thickness_mm": 6.0,
           "width_mm": 1000.0,
           "length_mm": 2000.0,
           "area_m2": 2.0,
           "price_text": "594.71 LEI / buc",
           "price_lei_m2": 297.355
+        },
+        {
+          "thickness_mm": 6.0,
+          "width_mm": 1500.0,
+          "length_mm": 6000.0,
+          "area_m2": 9.0,
+          "price_text": "297.3 LEI / mp",
+          "price_lei_m2": 297.3
         }
       ],
       "old_price_lei_m2": 298
