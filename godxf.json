@@ -156,6 +156,11 @@
                     "thickness_mm": 4,
                     "speed_mm_s": 67,
                     "sheet_price_lei_m2": 427
+                },
+                {
+                    "thickness_mm": 5,
+                    "speed_mm_s": 32,
+                    "sheet_price_lei_m2": 890
                 }
             ]
         }
